@@ -1,9 +1,9 @@
 # sinformationsystempythonflask
-Introduction
+# Introduction
 Student Information System is a web-app template for add information of the students, update information of the system and delete information of the system tools built with Python Flask, JavaScript, SQLalchemy, Html and Bootstrap CSS.
  
 
-Features
+# Features
 
 Main page: This collects the uploaded all records of the studentinformation. Where we Add information of the student and from edit we can update the information and can also delete the records.
 
@@ -16,7 +16,7 @@ Runs on Bootstrap.css: Modern, responsive. Bootstrap makes writing good looking 
 Python3: The whole project is written in Python3.9.
 
 
-Example for add information:
+# Example for add information:
 -click on Add Students, then appear a form for add student information.
 - fill are requiement field(enr, name, email, gender, phone, address)
 -click on add student
